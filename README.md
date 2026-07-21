@@ -310,7 +310,7 @@ The application uses:
 ## Clone Repository
 
 ```bash id="u6x8yt"
-git clone https://github.com/yokeshk1205/FOODORA---FOOD-BILLING-APPLICATION.gitit
+git clone https://github.com/yokeshk1205/FOODORA---FOOD-BILLING-APPLICATION
 ```
 
 ## Open Project
